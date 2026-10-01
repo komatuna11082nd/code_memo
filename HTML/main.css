@@ -1,0 +1,41 @@
+header{
+    background-color: #333333;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: inherit;
+}
+
+footer{
+    background-color: #333333;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+#title{
+    color: #E4E44E;
+    font-family: Arial, "Helvetica Neue", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+body{
+    color: #EEEEEE;
+    background-color: #222222;
+    font-size: 20px;
+}
+
+.code_name{
+    font-size: 25px;
+}
+
+code{
+    color: #00BE64;
+    background-color: #222222;
+}
+
